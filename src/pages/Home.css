@@ -1,0 +1,25 @@
+.contenedor_principal{
+    height: 80vh;
+    width: 100vw;
+}
+.contenedor_texto_home{
+height: 20vh;
+}
+.contenedor_imagen_home{
+    height: 80vh;
+    width: 100vw;
+    
+    display: flex;
+    justify-content: center;
+    
+}
+img{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    object-fit: cover;
+    
+}
+.background-video{
+    
+}
