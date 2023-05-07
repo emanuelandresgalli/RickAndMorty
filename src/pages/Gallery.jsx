@@ -2,7 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import './Gallery.css';
-import video from '../assets/futuro-12917.mp4';
+// import video from '../assets/futuro-12917.mp4';
 
 
 const Gallery = () => {
