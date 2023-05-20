@@ -11,7 +11,7 @@ const Home = () => {
         <div className="background-video">
       <video autoPlay loop muted>
         <source src={video} type="video/mp4" />
-      </video>
+      </video> || <img src="https://i.pinimg.com/564x/41/b7/ae/41b7aece6f8cb829adce62fe04296bc3.jpg" alt="img" />
     </div>
         {/* <img src="https://i.pinimg.com/564x/58/23/f9/5823f95f4ff6bcdc0fb321d29e3f087a.jpg" alt="rickandmorty" /> */}
         </Link>
